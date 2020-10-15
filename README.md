@@ -10,9 +10,9 @@ Imagine that you are running the team for the New Yorker iOS app. Up to this poi
 
 The product team has come to you with the idea of incorporating audio content into the app. They'd like a native audio playing experience.. and audio content should now show up in the feed and within magazines relative to the article that audio file belongs to. You can assume audio content is always associated to a single article.
 
-Please design a system to allow this new audio content to reach the app and be played via a native audio player.
+This exercise is about investigating how the existing system that delivers data to the app can be updated to provide the new audio data. Output should be a rough design of the planned changes relative to what you learn (through questions) of the existing system.
 
-NOTE: It is OK to begin this section with clarifying questions of the problem.
+NOTE: It is EXPECTED to begin this section with clarifying questions of the existing tech stack.
 
 ## Section 2 - NewsAPI.com App - Review & Refactor [45 min]
 
