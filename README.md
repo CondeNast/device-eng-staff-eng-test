@@ -20,7 +20,7 @@ The purpose of this section is to understand how you approach refactoring troubl
 
 About the app:
 
-This app shows news article retrived from newsapi.org. It first shows a feed, and then allows you to click into an item in the feed for some expanded information. 
+This app shows news articles retrieved from newsapi.org. It first shows a feed, and then allows you to click into an item in the feed for some expanded information. 
 
 During this section of the interview, we'll ask you to:
 
