@@ -1,6 +1,6 @@
 # Overview
 
-This repo contains the outline and materials related to the technical interview for the role of technical lead on an iOS team at Condé Nast.
+This repo contains the outline and materials related to the technical interview for the role of staff engineer within device engineering at Condé Nast.
 
 # Interview Sections & Materials
 
